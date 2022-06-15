@@ -1,13 +1,9 @@
 ## About Project
 
-### About Project
 
 - **Laravel 9 Vue 3 Movie Review Project With Login/Signup using Laravel Sanctum and Commenting and Replying System as Well (for logged in users only)**
 
-- **Minimum PHp 8 and Node 16 needed**
-
-- **Minimum PHp 8 and Node 16 needed**
-
+- **Minimum PHP 8.0.2 and Node 16 needed**
 
 - **1. Clone The Repo**
 - **2. Composer Install**
